@@ -43,4 +43,5 @@ Pathogenic insertions could not be identified by STRAS.
 
 
 5.An example
+
 hg002.gangstr.bed is an example generated from hg002 WGS data. Just run snakemake and it would take a few minutes. Annotated tsv and scored tsv would be in results file.
