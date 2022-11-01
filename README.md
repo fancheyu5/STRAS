@@ -5,19 +5,19 @@
 
 First create a conda environment to run this pipeline, by
 
-   conda create -n STRAS
+    conda create -n STRAS
    
-   conda activate STRAS
+    conda activate STRAS
    
-   conda install snakemake -c bioconda
+    conda install snakemake -c bioconda
    
 Then install BEDOPS and r-base, by
 
-   conda install bedops r-base=4 -c bioconda 
+    conda install bedops r-base=4 -c bioconda 
    
 Install R packages
 
-   conda install r-caret r-tidyverse r-randomForest r-dplyr r-stringr
+    conda install r-caret r-tidyverse r-randomForest r-dplyr r-stringr
 
 2.Prepare input .bed
 
