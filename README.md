@@ -22,6 +22,7 @@ Install R packages
 2.Prepare input .bed
 
 The input file should be a tab-delimited, no header .bed file with 5 columns. The contents of each column are chromosome (without characters ‘chr’), start, end, motif and copy number of this locus. An example is hg002.gangstr.bed . Name your bed with sample1.bed , sample2.bed ...
+The reference should be hg38. Please use LiftOver if you use hg19.
 
 3.Start
 
