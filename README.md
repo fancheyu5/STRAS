@@ -27,7 +27,7 @@ The reference should be hg38. Please use LiftOver if your data is based on hg19.
 
 3.Start
 
-Edit the first line of snakemake file. Put your sampleIDs in the [] , quot them with "", and seperate by ,
+Edit the first line of Snakefile. Put your sampleIDs in the [] , quot them with "", and seperate by ,
 
 eg. sample=["sample1","sample2"]
 
