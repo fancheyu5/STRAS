@@ -19,7 +19,7 @@ Install R packages
 
     conda install r-caret r-tidyverse r-randomForest r-dplyr r-stringr
 
-2.Download annoation files
+2.Download annotation files
 
 Please download annot_beds.zip from
 https://pan.baidu.com/s/1MeukqURTHTtZXjsRqd3f2w?pwd=1234 提取码: 1234 (for Chinese)
