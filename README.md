@@ -21,7 +21,7 @@ Install R packages
 
 2.Download annoation files
 
-Please download annot_bed.zip from
+Please download annot_beds.zip from
 https://pan.baidu.com/s/1MeukqURTHTtZXjsRqd3f2w?pwd=1234 提取码: 1234 (for Chinese)
 or https://www.mediafire.com/file/fd5z2wusue5olaf/annot_beds.zip/file
 Put it in STRAS file and unzip it.
